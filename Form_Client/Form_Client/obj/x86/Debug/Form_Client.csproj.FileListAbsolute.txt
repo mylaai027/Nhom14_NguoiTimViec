@@ -1,0 +1,32 @@
+C:\Users\HELLO\Documents\Visual Studio 2010\Projects\Form_Client\Form_Client\bin\Debug\Form_Client.exe
+C:\Users\HELLO\Documents\Visual Studio 2010\Projects\Form_Client\Form_Client\bin\Debug\Form_Client.pdb
+C:\Users\HELLO\Documents\Visual Studio 2010\Projects\Form_Client\Form_Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HELLO\Documents\Visual Studio 2010\Projects\Form_Client\Form_Client\obj\x86\Debug\Form_Client.Properties.Resources.resources
+C:\Users\HELLO\Documents\Visual Studio 2010\Projects\Form_Client\Form_Client\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\HELLO\Documents\Visual Studio 2010\Projects\Form_Client\Form_Client\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\HELLO\Documents\Visual Studio 2010\Projects\Form_Client\Form_Client\obj\x86\Debug\Form_Client.exe
+C:\Users\HELLO\Documents\Visual Studio 2010\Projects\Form_Client\Form_Client\obj\x86\Debug\Form_Client.pdb
+C:\Users\HELLO\Documents\Visual Studio 2010\Projects\Form_Client\Form_Client\obj\x86\Debug\Form_Client.Form1.resources
+c:\users\hello\documents\visual studio 2010\Projects\Form_Client\Form_Client\bin\Debug\Form_Client.exe.config
+D:\Lotus University\Hoc Ky 11.1A\CNDVW\New folder\Form_Client\Form_Client\bin\Debug\Form_Client.exe.config
+D:\Lotus University\Hoc Ky 11.1A\CNDVW\New folder\Form_Client\Form_Client\obj\x86\Debug\Form_Client.exe
+D:\Lotus University\Hoc Ky 11.1A\CNDVW\New folder\Form_Client\Form_Client\obj\x86\Debug\Form_Client.pdb
+D:\Lotus University\Hoc Ky 11.1A\CNDVW\New folder\Form_Client\Form_Client\bin\Debug\Form_Client.exe
+D:\Lotus University\Hoc Ky 11.1A\CNDVW\New folder\Form_Client\Form_Client\bin\Debug\Form_Client.pdb
+D:\Lotus University\Hoc Ky 11.1A\CNDVW\New folder\Form_Client\Form_Client\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Lotus University\Hoc Ky 11.1A\CNDVW\New folder\Form_Client\Form_Client\obj\x86\Debug\Form_Client.Form1.resources
+D:\Lotus University\Hoc Ky 11.1A\CNDVW\New folder\Form_Client\Form_Client\obj\x86\Debug\Form_Client.Properties.Resources.resources
+D:\Lotus University\Hoc Ky 11.1A\CNDVW\New folder\Form_Client\Form_Client\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Lotus University\Hoc Ky 11.1A\CNDVW\New folder\Form_Client\Form_Client\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Lotus University\Hoc Ky 11.1A\CNDVW\Project\Form_Client\Form_Client\bin\Debug\Form_Client.exe.config
+D:\Lotus University\Hoc Ky 11.1A\CNDVW\Project\Form_Client\Form_Client\obj\x86\Debug\Form_Client.exe
+D:\Lotus University\Hoc Ky 11.1A\CNDVW\Project\Form_Client\Form_Client\obj\x86\Debug\Form_Client.pdb
+D:\Lotus University\Hoc Ky 11.1A\CNDVW\Project\Form_Client\Form_Client\bin\Debug\Form_Client.exe
+D:\Lotus University\Hoc Ky 11.1A\CNDVW\Project\Form_Client\Form_Client\bin\Debug\Form_Client.pdb
+D:\Lotus University\Hoc Ky 11.1A\CNDVW\Project\Form_Client\Form_Client\bin\Debug\Form_Host.exe
+D:\Lotus University\Hoc Ky 11.1A\CNDVW\Project\Form_Client\Form_Client\bin\Debug\Form_Host.pdb
+D:\Lotus University\Hoc Ky 11.1A\CNDVW\Project\Form_Client\Form_Client\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Lotus University\Hoc Ky 11.1A\CNDVW\Project\Form_Client\Form_Client\obj\x86\Debug\Form_Client.Form1.resources
+D:\Lotus University\Hoc Ky 11.1A\CNDVW\Project\Form_Client\Form_Client\obj\x86\Debug\Form_Client.Properties.Resources.resources
+D:\Lotus University\Hoc Ky 11.1A\CNDVW\Project\Form_Client\Form_Client\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Lotus University\Hoc Ky 11.1A\CNDVW\Project\Form_Client\Form_Client\obj\x86\Debug\GenerateResource.write.1.tlog
