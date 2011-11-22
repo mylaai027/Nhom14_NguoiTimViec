@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="da3d33df-ca54-4cec-b729-42f5d6b8ff20" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>true</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8000/WSHttpBinding" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Timviec.wsdl" MetadataType="Wsdl" ID="1f3b313c-f045-45c2-a73c-fa966fc2367c" SourceId="1" SourceUrl="http://localhost:8000/WSHttpBinding?wsdl" />
+    <MetadataFile FileName="WSHttpBinding.disco" MetadataType="Disco" ID="0d6fe995-ee07-402a-b9a7-561d415f59e9" SourceId="1" SourceUrl="http://localhost:8000/WSHttpBinding?disco" />
+    <MetadataFile FileName="WSHttpBinding.xsd" MetadataType="Schema" ID="06cec6ca-6111-4e5b-9434-fc396838e56f" SourceId="1" SourceUrl="http://localhost:8000/WSHttpBinding?xsd=xsd0" />
+    <MetadataFile FileName="WSHttpBinding1.xsd" MetadataType="Schema" ID="40c6bd93-5fd4-4fab-9e97-e7efeb4173cc" SourceId="1" SourceUrl="http://localhost:8000/WSHttpBinding?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
